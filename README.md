@@ -18,4 +18,5 @@
 </div>
 
 ##
+ ![Snake animation](https://github.com/GabrielCF2/GabrielCF2/blob/output/github-contribution-grid-snake.svg)
   
