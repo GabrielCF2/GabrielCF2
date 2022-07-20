@@ -1,6 +1,6 @@
 ### Hello there there 👋</br>
 
-- 🌱 Atualmente eu estou aprendeno: Python, HTLM, CSS, JS.
+- 🌱 Atualmente eu estou aprendeno: Python.
 - ⚡ Fato interessante: Eu sou um nerd.
 
 <div align="center">
