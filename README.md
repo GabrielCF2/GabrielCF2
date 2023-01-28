@@ -1,4 +1,4 @@
-### Hello there there 👋</br>
+### Hello there👋</br>
 
 - 🌱 Atualmente eu estou aprendeno: Python.
 - ⚡ Fato interessante: Eu sou um nerd.
