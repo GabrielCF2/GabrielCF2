@@ -1,8 +1,5 @@
 ### Hello there👋</br>
 
-- 🌱 Atualmente eu estou aprendeno: Python.
-- ⚡ Fato interessante: Eu sou um nerd.
-
 <div align="center">
   <a href="https://github.com/GabrielCF2">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielCF2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
